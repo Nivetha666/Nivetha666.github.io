@@ -1,0 +1,34 @@
+
+
+h2{
+	text-align: center;
+	border:5px solid grey;
+
+}
+body{
+	background-image:url(wallpaper2.jpg);
+	background-size: cover; 
+}
+li{
+	list-style: none;
+	display:inline-block;
+}
+p{
+	color:grey;
+}
+img{
+	float:center ;
+}
+.jimin{
+	border:5px solid grey;
+
+}
+#div1{
+	background: rgba(255,0,0,0.2);1
+}
+.jin{
+	text-decoration: underline;
+}
+.jungkook{
+	font-family: 'Lexend Giga', sans-serif;
+}
